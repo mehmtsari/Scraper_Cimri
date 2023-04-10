@@ -1,4 +1,4 @@
-#User Manual#
+#User Manual for cimriUrunler#
 
 1- Open the location where the cimriUrunler Python file is located in the command prompt [cmd] and run the cimriUrunler.py file with Python.
 When the application opens,
